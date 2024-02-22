@@ -1,1 +1,1 @@
-# FPGA Developer Task - Uart to PWm Generator
+# FPGA Developer Task - UART to PWM Generator
